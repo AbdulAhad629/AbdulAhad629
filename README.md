@@ -76,9 +76,16 @@ I’m Abdul Ahad, an AI/ML Engineer focused on building smart, scalable, and rea
 
 ## 📊 GitHub Stats
 
-![Abdul Ahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulAhad629&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhad629&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhad629&show_icons=true&theme=tokyonight" alt="Abdul Ahad's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhad629&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ---
 
